@@ -31,7 +31,7 @@
 
 	gs.info('test------->+------>');
 gs.info('test------->+------>');
-
+gs.info('test------->+------>');
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>midservercicdtarget</sys_created_by>
@@ -39,7 +39,7 @@ gs.info('test------->+------>');
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>0f24578093f6f1105a98718efaba109a</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>ShubhBR</sys_name>
         <sys_overrides/>
         <sys_package display_value="CICDTRY2" source="3b1b122093e235105a98718efaba1075">3b1b122093e235105a98718efaba1075</sys_package>
@@ -47,7 +47,7 @@ gs.info('test------->+------>');
         <sys_scope display_value="CICDTRY2">3b1b122093e235105a98718efaba1075</sys_scope>
         <sys_update_name>sys_script_0f24578093f6f1105a98718efaba109a</sys_update_name>
         <sys_updated_by>midservercicdtarget</sys_updated_by>
-        <sys_updated_on>2023-11-24 16:41:21</sys_updated_on>
+        <sys_updated_on>2023-11-24 16:47:55</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
