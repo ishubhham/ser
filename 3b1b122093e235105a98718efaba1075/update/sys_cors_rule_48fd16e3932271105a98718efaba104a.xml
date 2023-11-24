@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_cors_rule">
+    <sys_cors_rule action="INSERT_OR_UPDATE">
+        <delete>false</delete>
+        <domain>*.BGC.NET</domain>
+        <exposed_headers/>
+        <get>true</get>
+        <max_age>0</max_age>
+        <name>Localhost</name>
+        <patch>false</patch>
+        <post>true</post>
+        <put>false</put>
+        <rest_api>842e289137031200612747efbe41f1ce</rest_api>
+        <sys_class_name>sys_cors_rule</sys_class_name>
+        <sys_created_by>midservercicdtarget</sys_created_by>
+        <sys_created_on>2023-11-22 23:31:00</sys_created_on>
+        <sys_id>48fd16e3932271105a98718efaba104a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Localhost</sys_name>
+        <sys_package display_value="CICDTRY2" source="3b1b122093e235105a98718efaba1075">3b1b122093e235105a98718efaba1075</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CICDTRY2">3b1b122093e235105a98718efaba1075</sys_scope>
+        <sys_update_name>sys_cors_rule_48fd16e3932271105a98718efaba104a</sys_update_name>
+        <sys_updated_by>midservercicdtarget</sys_updated_by>
+        <sys_updated_on>2023-11-22 23:31:00</sys_updated_on>
+    </sys_cors_rule>
+</record_update>
